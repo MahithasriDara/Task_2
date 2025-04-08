@@ -61,7 +61,7 @@ This dashboard tells a visual story about the Superstore's performance from 2015
 ## 🗂️ Output Files
 - `Task_2_dashboard.pdf` – Final visual report
   
--`Task_2_superstore.pbixx` - Final Dashboard report
+- `Task_2_superstore.pbixx` - Final Dashboard report
 - `Superstore.csv` – Dataset used
 
 ---
@@ -72,6 +72,8 @@ This dashboard tells a visual story about the Superstore's performance from 2015
 - Integration with Excel or web app for interactivity
 
 
+## 🔗 References
 
+- [GitHub: Super Store Dataset](https://gist.github.com/giaunguyenvan/45a5c95a0f67f0c170dddda6117dfe90#file-superstore-csv)
 
 
